@@ -88,7 +88,7 @@ const display = {
     let perfect = ` <h1>Quiz terminé !
     <h3> Votre score est de ${quiz.score}
     / ${quiz.questions.length}</h3>
-    <p>Félicitation ! vous avez fait un score parfait,\n vous avez un grand avenir de développeur !</p>
+    <p>Félicitation ! vous avez fait un score parfait,\n un grand avenir de développeur n'attend que vous !</p>
     \n<button id="restart">Recommencer</button>`;
     let endQuizHTML = `
     <h1>Quiz terminé !
